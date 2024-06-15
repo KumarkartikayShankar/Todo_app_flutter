@@ -1,5 +1,5 @@
 # todo_app
-
+// Project is in master folder 
 A new Flutter project.
 
 ## Getting Started
